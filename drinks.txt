@@ -1,5 +1,5 @@
 water | 0 | drinks/water.png
-orange-mango drink | 320 | drinks/orange_mango_drink.png
+orange-grapefruit drink | 320 | drinks/orange_grapefruit_drink.png
 black coffee | 8 | drinks/coffee.png
 tea with lemon and sugar | 78 | drinks/tea.png
 gamer girl pee | 69 | drinks/gamer_girl_pee.png
