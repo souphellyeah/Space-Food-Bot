@@ -26,7 +26,7 @@ astronaut_food_bot_DINNER, astronaut_food_bot_SNACK, astronaut_food_bot_NIGHT_SN
 The bot is currently being hosted on a raspberry pi with individual scripts for each meal being scheduled at the meal times.
 Probably could have set that up in a much better way but oh well.
 
-The bot sources its images from folders within the project directory (FOOD_IMAGES and TEMPLATE_IMAGES). When it generates an image to post to facebook,
+The bot sources its images from folders within the project directory. When it generates an image to post to facebook,
 this is saved locally as '\_image_generated.png'. The bot also reads/writes to a lot of text files for things like food names, file names for images,
 kilojoule amounts for each food and total kJ intake for the current day, etc.
 
