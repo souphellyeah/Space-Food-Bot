@@ -1,0 +1,5 @@
+cinnamon-roasted bread cubes | 1098 | breakfast/cinnamon_cubes.png
+baked beans | 781 | breakfast/beans.png
+peach yoghurt in a can | 610 | breakfast/peach_yoghurt.png
+rehydrated granola with milk | 792 | breakfast/granola.png
+rehydrated Mexican scrambled eggs | 1282 | breakfast/mexican_scrambled_eggs.png

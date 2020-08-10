@@ -1,0 +1,5 @@
+ramen noodles | 2024 | mains/ramen.png
+Russian cabbage soup in a tube | 703 | mains/cabbage_soup.png
+Russian jellied beef tongue | 1289 | mains/jellied_beef_tongue.png
+rehydrated vegetable quiche | 1519 | mains/vegetable_quiche.png
+rehydrated cream of mushroom soup | 605 | mains/cream_of_mushroom_soup.png

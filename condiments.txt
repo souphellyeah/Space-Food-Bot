@@ -1,0 +1,10 @@
+honey | 79 | condiments/honey.png
+tomato sauce (ketchup) | 88 | condiments/tomato_sauce.png
+barbeque sauce | 114 | condiments/bbq_sauce.png
+peanut butter | 248 | condiments/peanut_butter.png
+jam (jelly) | 173 | condiments/jam.png
+ranch dressing | 250 | condiments/ranch.png
+hot sauce | 3 | condiments/hot_sauce.png
+mayo | 462 | condiments/mayo.png
+mustard | 48 | condiments/mustard.png
+gravy | 77 | condiments/gravy.png

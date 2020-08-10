@@ -1,0 +1,5 @@
+a plain tortilla | 595 | sides/tortilla.png
+rehydrated creamed spinach | 457 | sides/creamed_spinach.png
+rehydrated broccoli au gratin | 732 | sides/broccoli_au_gratin.png
+rehydrated corn chowder | 548 | sides/corn_chowder.png
+uhhhhh | 420 | sides/broccoli.png
