@@ -1,5 +1,5 @@
 a mysterious, unlabelled tube | 666 | snacks/tube.png
 space food sticks | 768 | snacks/space_food_sticks.png
-t h e _ v o i d | 666 | snacks/void.png 
+t h e _ v o i d | 666 | snacks/void.png
 Milky Way bar | 986 | snacks/milky_way.png
 freeze-dried astronaut icecream | 587 | snacks/icecream.png
